@@ -21,7 +21,7 @@ Um projeto de linha de comando desenvolvido em Python para praticar lógica de p
 **1. Clone o repositório**
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/Lincoln-66/gerenciador-de-tarefas-python
 ```
 
 **2. Entre na pasta do projeto**
